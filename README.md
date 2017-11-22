@@ -1,1 +1,22 @@
-# conf2017
+# BeyondBlockTaipei 2017
+
+- 08:00 - 09:00 工作人員進場場佈
+- 09:00 - 09:30 Registration
+- 09:30 - 09:40 Opening by EtherTW (by JuinC)
+- 09:40 - 10:10 Lane Rettig (Founder of CryptoNYC - Blockchain in NYC)
+- 10:10 - 11:10 Karl Floersch (Ethereum Researcher - Smart Contract Tutorial)
+- 11:10 - 11:30 BREAK
+- 11:30 - 12:00 何斌 Ben (CEO of ImToken - ImToken 2.0)
+- 12:00 - 12:20 贊助商短講 (BitoEX + 鯨鏈)
+- 12:20 - 13:30 LUNCH TIME (自理)
+- 13:30 - 14:00 Raiden Networks (Trustlines Network)
+- 14:00 - 14:30 Loi Luu (CEO of Kyber Networks - Kyber Networks)
+- 14:30 - 15:00 贊助商短講 (COBINHOOD + 陽光雲 + AMIS)
+- 15:00 - 15:30 BREAK
+- 15:30 - 16:00 Thomas Greco (The Value of Open Financial Networks)
+- 16:00 - 16:30 Vlad Zamfir (Ethereum Research Lead - Blockchain Governance)
+- 16:30 - 17:00 Vitalik Buterin (Creator of Ethereum - Ethereum 2.0)
+- 17:00 - 17:20 Q&A
+- 17:20 - 17:30 拍照合影
+- 17:30 - 20:00 晚宴
+- 20:00 - 21:00 場地還原+清潔(21:00撤場)
